@@ -14,7 +14,7 @@ h1{
 }
 p{
   padding: 7% 20% 0 30%;
-  float: left;
+  text-align: center;
 }
 
 .top-home{
@@ -30,7 +30,7 @@ p{
 }
 .gif-img{
   width:11%;
-  padding left: 50%;
+  float:right;
 }
 .body-home{
   position: relative;
