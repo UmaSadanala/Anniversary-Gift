@@ -16,7 +16,7 @@ p{
 }
 
 .gallery {
-  margin: 30px 6px;
+  margin: 30px 8px;
   float: left;
   width: 250px;
   height: 350px;
@@ -33,9 +33,3 @@ p{
   height: 100%;
   border-radius: 10%;
 }
-
-/* div.desc {
-  padding: 15px;
-  text-align: center;
-  position: relative;
-} */
