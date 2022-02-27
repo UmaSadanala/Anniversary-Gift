@@ -1,0 +1,54 @@
+h4{
+  color: red;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+  padding-top: 7%;
+  text-align: center;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  color: #495371;
+  padding: 2% 10%;
+}
+.cap{
+  text-align: center;
+  color: red;
+  font-family: 'Festive', cursive;
+  font-size: 50px;
+}
+.names{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  padding:1.5%;
+  color: #495371;
+  font-size: 40px;
+
+}
+.body{
+  text-align: center;
+  padding: 0 8%;
+}
+.second{
+  text-align: center;
+  padding: 0 8%;
+  /* position: relative;
+  display: inline-block;
+  float: left; */
+}
+.dates{
+  width: 355px;
+  height: 450px;
+    margin: 1%;
+  padding: 2% 4%;
+  /* position: static; */
+  /* display: block; */
+  float: left;
+  background-color: #FFEDDB;
+  border-radius: 10%;
+}
+.date-img{
+width: 250px;
+height: 300px;
+border-radius: 100%;
+border: solid 2px red;
+}

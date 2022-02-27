@@ -1,0 +1,42 @@
+h3{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  padding:1.5%;
+  color: #495371;
+
+}
+h1,p{
+  text-align: center;
+  color: red;
+  font-family: 'Festive', cursive;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size:20px;
+  font-style: italic;
+}
+.carbg{
+  background-color: #fff;
+}
+.car-img{
+  width:40%;
+  /* height:20%; */
+  border-radius: 100%;
+  float: left;
+  border: 5px solid #ddd;
+}
+#carouselExampleDark{
+  /* padding: 2% 33%;
+  width: 75%; */
+  padding: 2% 15%;
+  text-align: center;
+  background-color: #fff;
+}
+.content{
+  padding-top: 20%;
+}
+
+/* Styles for Special dates page */
+.dates{
+  width:200px;
+}
